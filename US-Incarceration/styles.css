@@ -6,8 +6,7 @@ img, p, h1, h2{
 }
 
 .map {
-    max-width: 1000px;
-    min-width: 1000px;
+    max-width: 640px;
 }
 
 .pop {
