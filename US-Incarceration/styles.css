@@ -39,7 +39,8 @@ p {
 }
 
 h1, h2 { 
-font-family: "Crimson Text";
+    font-size: 18px;
+    font-family: "Crimson Text";
 }
 
 .divider {
