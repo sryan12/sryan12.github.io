@@ -6,7 +6,7 @@ img, p, h1, h2{
 }
 
 .map {
-    max-width: 640px;
+    max-width: 1000px;
 }
 
 .pop {
@@ -39,7 +39,7 @@ p {
 }
 
 h1, h2 { 
-font-family: "Roboto";
+font-family: "Crimson Text";
 }
 
 .divider {
@@ -69,9 +69,9 @@ font-family: "Roboto";
       }
       
       .photo-container img {
-        width: 400px;
+        width: 450px;
         height: auto;
         object-fit: cover;
-        border-radius: 4px;
+        border-radius: 5px;
       }
     
